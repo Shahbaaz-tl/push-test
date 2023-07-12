@@ -4,3 +4,6 @@ phpinfo();
 // $imagick->setImageFormat('pdf');
 // $imagick->writeImage('output.pdf');
 // $imagick->destroy();
+
+
+echo "hello world";
